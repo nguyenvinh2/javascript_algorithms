@@ -16,5 +16,4 @@ function pigLatin(word) {
     }
     return sliceWord.concat('',result.join('')).concat('',endWord);
 }
-
 console.log(pigLatin('lovelace'));
