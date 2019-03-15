@@ -1,0 +1,10 @@
+# Javascript Coding Challenges
+
+This is a collection of coding challenges using vanilla javascript.
+
+1. [./pig_latin_translator](English to Pig Latin Translator)
+
+    Given a word, move all consonants to the end till the first vowel and end the word with "ay".
+    Example:
+        Input: Shrimp   ->  Output: Impshray
+        Input: translation  =>  Output: anslationtray
