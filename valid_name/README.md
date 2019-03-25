@@ -6,3 +6,5 @@
                 Input: H. G. Wells -> Output: true
                 Input: Herbert G. Wells -> Output: true
                 Input: Herbert George Wells -> Output: true
+
+                Add a test.
