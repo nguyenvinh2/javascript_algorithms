@@ -8,7 +8,7 @@ function symmetryCheck(arrayInput) {
 
 
     for (let j = 0; j < arrayInput[i].length; j++) {
-      if (arrayInput[i][j] !== arrayInput[arrayInput[i].length - i - 1][j]) {
+      if (arrayInput[i][j] !== arrayInput[arrayInput.length - i - 1][j]) {
         horizontalSymmetry = false;
       }
 
